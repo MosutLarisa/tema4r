@@ -4,3 +4,13 @@
     font-weight: 100;
     font-style: normal;
 }
+
+.mail {
+    font-size: 15px;
+    padding: 20px;
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(72, 71, 71);
+    margin: 15px 1100px 15px 230px;
+}
