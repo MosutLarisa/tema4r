@@ -63,3 +63,13 @@
     color: white;
 }
 
+.forgot {
+    color: rgb(57, 128, 227);
+    margin: 15px 0px 15px 350px;
+}
+
+.create {
+    color: rgb(57, 128, 227);
+    margin-left: 345px;
+}
+
