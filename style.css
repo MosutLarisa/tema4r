@@ -13,6 +13,7 @@
     border-width: 1px;
     border-color: rgb(72, 71, 71);
     margin: 15px 1100px 15px 230px;
+    width: 300px;
 }
 
 .parola {
@@ -23,6 +24,7 @@
     border-width: 1px;
     border-color: rgb(72, 71, 71);
     margin: 15px 1100px 15px 230px;
+    width: 300px;
 
 }
 
@@ -39,6 +41,8 @@
     margin: 15px 1100px 15px 230px;
     text-align: center;
     color: white;
+    width: 300px;
+
 }
 
 .google {
@@ -50,6 +54,8 @@
     margin: 15px 1100px 15px 230px;
     text-align: center;
     color: white;
+    width: 300px;
+
 }
 
 .facebook {
@@ -61,6 +67,8 @@
     margin: 15px 1100px 15px 230px;
     text-align: center;
     color: white;
+    width: 300px;
+
 }
 
 .forgot {
@@ -79,6 +87,8 @@
     margin-right: auto;
     margin-top: 0;
     margin-bottom: 0;
+    width: 500px;
+
 }
 
 .hr2 {
@@ -87,4 +97,6 @@
     margin-right: auto;
     margin-top: 0;
     margin-bottom: 0;
+    width: 500px;
+
 }
