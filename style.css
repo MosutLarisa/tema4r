@@ -25,3 +25,41 @@
     margin: 15px 1100px 15px 230px;
 
 }
+
+.remember {
+    margin-left: 230px;
+}
+
+.login {
+    font-size: 15px;
+    padding: 20px;
+    border-radius: 100px;
+    background-color: rgb(32, 28, 235);
+    background-size: 100px;
+    margin: 15px 1100px 15px 230px;
+    text-align: center;
+    color: white;
+}
+
+.google {
+    font-size: 15px;
+    padding: 20px;
+    border-radius: 100px;
+    background-color: rgb(231, 14, 14);
+    background-size: 100px;
+    margin: 15px 1100px 15px 230px;
+    text-align: center;
+    color: white;
+}
+
+.facebook {
+    font-size: 15px;
+    padding: 20px;
+    border-radius: 100px;
+    background-color: rgb(47, 11, 179);
+    background-size: 100px;
+    margin: 15px 1100px 15px 230px;
+    text-align: center;
+    color: white;
+}
+
